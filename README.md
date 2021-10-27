@@ -1,2 +1,2 @@
 # sieve-of-eratosthenes-optimization
-Optimizes the original sieve of eratosthenes algorithm of find primes less or equal to n
+Optimizes the original sieve of eratosthenes algorithm of finding primes less or equal to a number n
